@@ -24,6 +24,8 @@ git commit
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 ![This is an image](/asset/tempforgithub.jpg)
+![This is an image](/asset/tempforgithub.jpg)
+[a link](/asset/tempforgithub.pdf)
 
 
 - George Washington
