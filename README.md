@@ -16,6 +16,10 @@ Website: https://www.linkedin.com/in/masoud-jafaripour
 		- University of Tehran is the pre-eminent national university of Iran.
 		- GPA: 19.11/20 (3.98/4)
 		- Thesis title: “Controller design and construction of single-axis active magnetic levitation system”, Advisor: Prof. F.Ayatolah Zadeh Shirazi. 	
+
+navbar-links:
+  Curriculum Vitae: "curriculum-vitae"
+  
 RESEARCH AND CAREER EXPERIENCE  
 	Research Engineer, Sharif AgRobot, Tehran, Iran
 May 2021-Present
