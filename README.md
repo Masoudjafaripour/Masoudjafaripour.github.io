@@ -1,6 +1,6 @@
 # MASOUD JAFARIPOUR
 **EDUCATION**
- * **M.Sc. in Mechanical Engineering**, Sept. 2019-Present
+ * **M.Sc. in Mechanical Engineering**, Sept. 2016-Jan. 2019
    * Sharif University of Technology (SUT), Tehran, Iran
    * CGPA: 4.0/4.0 (18.16/20)
    * Thesis Title: Robotic Arm Manipulation Learning from Demonstration Based on Reinforcement Learning
