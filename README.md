@@ -7,7 +7,7 @@
    * Supervisor: Prof. Hassan Salarieh
 
  * **B.Sc. in Mechanical Engineering**, Sept. 2012-Sept. 2016
-   * Amirkabir University of Technology (AUT), Tehran, Iran
+   * University of Tehran, Tehran, Iran
    * CGPA: 3.98/4.00 (19.11/20) - 4th rank
    * Thesis Title: Controller design and construction of single-axis active magnetic levitation system
    * Supervisor: Prof. F. Ayatollahzadeh Shirazi
