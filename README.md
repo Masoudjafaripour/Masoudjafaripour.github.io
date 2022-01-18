@@ -14,25 +14,29 @@
 
 
 **PROFESSIONAL EXPERIENCE**
- * Research Engineer, SHARIF AGROBOT CO., Tehran, Iran
+ * Research Engineer, Sharif AgRobot Co., Tehran, Iran
    * UAV autopilot system design for agricultural purpose   
    * System identification using flight data log and in-flight parameter calibration
    * Vision-based autonomous pollinating systems development   
 
-* Research Engineer, SHARIF AGROBOT CO., Tehran, Iran
-   * UAV autopilot system design for agricultural purpose   
-   * System identification using flight data log and in-flight parameter calibration
-   * Vision-based autonomous pollinating systems development   
+* Research Assistant, Mech. Department, Sharif University of Technology, Tehran, Iran
+   * Adaptive filtering and ML-based sensor calibration
+   * Implementation of UKF and EKF filters for autonomous navigation
+   * MPC, optimal, and adaptive (iterative learning) control  
 
-* Research Engineer, SHARIF AGROBOT CO., Tehran, Iran
-   * UAV autopilot system design for agricultural purpose   
-   * System identification using flight data log and in-flight parameter calibration
-   * Vision-based autonomous pollinating systems development 
+* Data-Driven Engineer, Safesense Group, SUT, Tehran, Iran
+   * Civil Structural Health Monitoring (SHM) using statistical learning and nonlinear filtering
+   * ML-based system identification methods for monitoring and predicting structures’ behavior
 
-* Research Engineer, SHARIF AGROBOT CO., Tehran, Iran
-   * UAV autopilot system design for agricultural purpose   
-   * System identification using flight data log and in-flight parameter calibration
-   * Vision-based autonomous pollinating systems development    
+* Instructor, ANDISHEH HAMOON INSTITUTE, Tehran, Iran
+   * Instructing advanced mathematics, advanced dynamic, robotic and automatic control courses
+
+* Research and Development Engineer, SHARIF TECHNOLOGY SERVICE COMPLEX, SUT, Tehran, Iran
+   * Hybrid dynamical modeling and real-time nanosatellite simulation
+   * Software in the loop testing of control systems
+   * Autonomous supervisory decision-making system design
+   * GUI developing for ADCS design
+   * AUV navigation by integration of INS, DVL, and acoustic sensors
 
 **PUBLICATIONS**
  * Masoud Jafaripour, Hassan Salarieh, “Real-time Magnetometer Calibration using Adaptive Filtering and Deep Learning-based Methods.” (in preparation).
