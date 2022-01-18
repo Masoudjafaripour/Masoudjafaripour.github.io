@@ -44,13 +44,29 @@
  * Ali Moallemi, Masoud Jafaripour, Ali Parvizi. “Eﬀect of mandrel friction on pressure distribution, load and
 torque in ring rolling process.” Journal of Manufacturing Processes-Elsevier, (Under review).
 
+**RESEARCH INTERESTS**
+ * Autonomous Systems : Navigation and Control
+ * Simultaneous Localization and Mapping (SLAM)
+ * Robotics : Perception, Planning, and Control
+ * Control Theory (Learning, Stochastic, Optimal, and Adaptive)
+ * Sensor Fusion and Adaptive Filtering
+ * Machine Learning (Reinforcement Learning and Deep Learning)
+
+**HONORS and AWARDS**
+ * Fellowship award from Iranian National Foundation of Elites (2017, 2018 & 2019)
+ * Merit-based admission to the M.Sc. program in Mechanical Engineering, an award for top ranked students admission without entrance examination, Department of Mechanical Engineering of both Sharif University of Technology and University of Tehran, Tehran, Iran
+ * Ranked 4th among 114 undergraduate students of Mechanical Engineering, School of Mechanical Engineering, College of engineering, University of Tehran, Tehran, Iran
+ * Ranked 6th among 12,500 participants in the nationwide Mechanical Engineering Olympiad contest, National Organization of Educational Testing (Iran), Tehran, Iran
+ * Winner of F.O.E prize (Faculty of Engineering) as recognition awarded to the two highest scoring students of B.Sc. degree on each academic year at College of engineering, University of Tehran, Tehran, Iran
+ * Ranked 352nd among 260,000 participants in the Nationwide University Entrance Examination (Konkoor-e Sarasari) in mathematical science flied for Undergraduate program
+ * 2nd round qualification in Physics Olympiad
+
 **TEACHING EXPERIENCE**
  
 
 **WORKING EXPERIENCE**
 
 
-**HONORS and AWARDS**
  
 
 **SKILLS**
