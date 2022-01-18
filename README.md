@@ -13,6 +13,27 @@
    * Supervisor: Prof. F. Ayatollahzadeh Shirazi
 
 
+**PROFESSIONAL EXPERIENCE**
+ * Research Engineer, SHARIF AGROBOT CO., Tehran, Iran
+   * UAV autopilot system design for agricultural purpose   
+   * System identification using flight data log and in-flight parameter calibration
+   * Vision-based autonomous pollinating systems development   
+
+* Research Engineer, SHARIF AGROBOT CO., Tehran, Iran
+   * UAV autopilot system design for agricultural purpose   
+   * System identification using flight data log and in-flight parameter calibration
+   * Vision-based autonomous pollinating systems development   
+
+* Research Engineer, SHARIF AGROBOT CO., Tehran, Iran
+   * UAV autopilot system design for agricultural purpose   
+   * System identification using flight data log and in-flight parameter calibration
+   * Vision-based autonomous pollinating systems development 
+
+* Research Engineer, SHARIF AGROBOT CO., Tehran, Iran
+   * UAV autopilot system design for agricultural purpose   
+   * System identification using flight data log and in-flight parameter calibration
+   * Vision-based autonomous pollinating systems development    
+
 **PUBLICATIONS**
  * Masoud Jafaripour, Hassan Salarieh, “Real-time Magnetometer Calibration using Adaptive Filtering and Deep Learning-based Methods.” (in preparation).
  * Masoud Jafaripour, Hassan Salarieh, Hadi Jalili, Bahram Yaghooti, “Concurrent Attitude and Orbit Estimation of a Nanosatellite with Real-time Magnetometer Calibration” NAVIGATION Journal, (to be submitted).
